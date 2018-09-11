@@ -1,0 +1,49 @@
+body{
+     margin: 0;
+    padding: 0;
+}
+div{
+    height: 700px;
+     margin: 0;
+    padding: 0;
+}
+.font{
+    font-family: font-family: 'Sawarabi Mincho', sans-serif;
+       background-size: cover;
+}
+h1{
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    font-size: 3.2em;
+    color: white;
+    margin: 0 ;
+    padding: 0;
+}
+h2{
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    font-size: 3.2em;
+    margin: 0;
+    padding: 0;
+    color: white
+}
+h3{
+    
+    text-align: center;
+    color: gray;
+}
+p{
+    font-family: 'Acme', sans-serif;
+    text-align: left;
+    font-size: 2em;
+}
+.grey{
+    background-color: #BABABA;
+}
+.center{
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 250px;
+    text-align: center;
+}
+
